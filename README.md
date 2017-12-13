@@ -5,11 +5,16 @@ Run: `THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python textGAN.py`
 
 # Prerequisite
 
-* Theono >= 0.8
+* Theono version >= 0.8
+* cuda version 8.0
 * cPickle
 * foxhound
 
+# Data link
+ https://drive.google.com/open?id=0B52eYWrYWqIpd2o2T1E3aUU0cEk
 
+# Pretrained parameter
+http://people.duke.edu/~yz196/zip/param.zip
 
 # Evaluation
 *`python eval_kde.py`
