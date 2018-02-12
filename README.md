@@ -7,7 +7,6 @@ Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Lawrence Carin. ICML, 20
 Yizhe Zhang, Zhe Gan, Lawrence Carin.  Workshop on Adversarial Training, NIPS, 2016.
 
 ## Run 
-
 * (Theano) Run: 
 
 `THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python textGAN.py`
@@ -21,6 +20,7 @@ Yizhe Zhang, Zhe Gan, Lawrence Carin.  Workshop on Adversarial Training, NIPS,
 * Theano: 
 	* Theono >= 0.8
 	* cPickle
+	* cuda version 8.0
 	* foxhound
 	
 * Tensorflow: 
@@ -28,6 +28,11 @@ Yizhe Zhang, Zhe Gan, Lawrence Carin.  Workshop on Adversarial Training, NIPS,
 	* cPickle
 
 
+# Data link
+ https://drive.google.com/open?id=0B52eYWrYWqIpd2o2T1E3aUU0cEk
+
+# Pretrained parameter
+http://people.duke.edu/~yz196/zip/param.zip
 
 # Evaluation
 * (Theano only) `python eval_kde.py`
