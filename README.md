@@ -29,7 +29,9 @@ Yizhe Zhang, Zhe Gan, Lawrence Carin.  Workshop on Adversarial Training, NIPS,
 
 
 # Data link
- https://drive.google.com/open?id=0B52eYWrYWqIpd2o2T1E3aUU0cEk
+[Three_corpus](https://drive.google.com/open?id=0B52eYWrYWqIpd2o2T1E3aUU0cEk)
+ 
+[Arxiv only](https://drive.google.com/file/d/1C3Eg9s3QTR81Uy1glIld1VjJresN--4r/view?usp=sharing)
 
 # Pretrained parameter
 http://people.duke.edu/~yz196/zip/param.zip
